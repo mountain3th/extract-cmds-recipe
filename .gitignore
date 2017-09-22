@@ -1,0 +1,15 @@
+# venv
+bin/
+include/
+lib/
+
+# buildout
+eggs/
+parts/
+develop-eggs/
+.installed.cfg
+
+# setup.py
+build/
+dist/
+extract_cmds_recipe.egg-info/
